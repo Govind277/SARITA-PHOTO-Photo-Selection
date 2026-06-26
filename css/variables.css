@@ -1,1 +1,112 @@
 /* Color Variables */
+/* ==========================================
+   SARITA PHOTO - Design System
+   Version : 1.0
+========================================== */
+
+:root{
+
+/* ========= Colors ========= */
+
+--primary:#d4af37;
+--primary-dark:#b8860b;
+
+--secondary:#d32f2f;
+--secondary-dark:#b71c1c;
+
+--accent:#ffb300;
+
+--pink:#fde7ef;
+
+--white:#ffffff;
+
+--background:#fffaf5;
+
+--surface:#ffffff;
+
+--border:#f1e2c5;
+
+--text:#2b2b2b;
+
+--text-light:#666666;
+
+--success:#28a745;
+
+--danger:#dc3545;
+
+
+/* ========= Gradient ========= */
+
+--gold-gradient:linear-gradient(
+135deg,
+#f8d568,
+#d4af37
+);
+
+--hero-gradient:linear-gradient(
+135deg,
+#fff7e8,
+#fde7ef
+);
+
+
+/* ========= Fonts ========= */
+
+--font-family:'Poppins',sans-serif;
+
+--fs-12:12px;
+--fs-14:14px;
+--fs-16:16px;
+--fs-18:18px;
+--fs-20:20px;
+--fs-24:24px;
+--fs-30:30px;
+--fs-36:36px;
+--fs-42:42px;
+--fs-50:50px;
+--fs-60:60px;
+
+
+/* ========= Font Weight ========= */
+
+--light:300;
+--regular:400;
+--medium:500;
+--semi-bold:600;
+--bold:700;
+--extra-bold:800;
+
+
+/* ========= Radius ========= */
+
+--radius-sm:8px;
+--radius-md:15px;
+--radius-lg:25px;
+--radius-xl:40px;
+--radius-round:999px;
+
+
+/* ========= Shadow ========= */
+
+--shadow-sm:0 4px 10px rgba(0,0,0,.05);
+
+--shadow-md:0 8px 25px rgba(0,0,0,.08);
+
+--shadow-lg:0 15px 40px rgba(0,0,0,.12);
+
+
+/* ========= Transition ========= */
+
+--transition:.35s ease;
+
+
+/* ========= Width ========= */
+
+--container:1300px;
+
+
+/* ========= Section ========= */
+
+--section-space:100px;
+
+}
